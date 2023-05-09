@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "freqiency_lab_3", "freqiency_lab_3\freqiency_lab_3.csproj", "{55ECA63F-5D46-4CA0-A7E1-AD3816AA088B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55ECA63F-5D46-4CA0-A7E1-AD3816AA088B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ECA63F-5D46-4CA0-A7E1-AD3816AA088B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ECA63F-5D46-4CA0-A7E1-AD3816AA088B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ECA63F-5D46-4CA0-A7E1-AD3816AA088B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50BD90E8-8319-4DB1-B917-F9C1C182C229}
+	EndGlobalSection
+EndGlobal
